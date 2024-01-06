@@ -1,9 +1,10 @@
 public class Constructor_Ex2 {
     public static void main(String[] args) {
-        Student s1 = new Student();
-        System.out.println();
-        Student s2 = new Student();
-        System.out.println();
+        // Make calls from here
+        // Student s1 = new Student();
+        // System.out.println();
+        // Student s2 = new Student();
+        // System.out.println();
     }
 }
 
