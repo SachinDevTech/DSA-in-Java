@@ -19,15 +19,6 @@ public class _11_KadanesAlgo {
             return 0; // Return 0 if all elements are negative
         }
         return maxSum;
-
-
-
-        
-
-
-
-
-
     }
 
     public static void main(String[] args) {
