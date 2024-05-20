@@ -3,5 +3,7 @@ public class _3_String_length_charAt {
         String myName = "Sachin Kumar";
         System.out.println("Length of your name is: " + myName.length());
         System.out.println("Length of your name is: " + myName.charAt(5));
+        String  newString = "to".concat("get").concat("her");
+        System.out.println(newString.toUpperCase()); //TOGETHER
     }
 }

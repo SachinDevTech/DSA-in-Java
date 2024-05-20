@@ -3,6 +3,10 @@ public class _9_LargestString {
         String largest = fruits[0];
         String smallest = fruits[0];
         for (int i = 0; i < fruits.length; i++) {
+            //How compareTo() function works?
+            //if str1.compareTo(str2) = 0 (Then, both strings are equal)
+            //if str1.compareTo(str2) < 0 (str1 < str2)
+            //if str1.compareTo(str2) > 0 (str1 > str2)
             if (largest.compareTo(fruits[i]) < 0) {
                 largest = fruits[i];
             }

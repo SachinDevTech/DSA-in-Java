@@ -15,7 +15,7 @@ public class _5_checkPalindrome {
     
 
     public static void main(String[] args) {
-        String str = "racar";
+        String str = "noon"; //racecar, madam, radar, refer, level etc...
         System.out.println(checkPalindrome(str));
     }
 }

@@ -10,7 +10,6 @@ public class _10_Remove_Special_chars {
     public static void main(String[] args) {
         String input = "";
         String ans = removeChars(input);
-
         System.out.println("The final output after removing special chars: " + ans);
     }
 }
