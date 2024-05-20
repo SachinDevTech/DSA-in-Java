@@ -1,10 +1,12 @@
 public class Constructor_Ex2 {
     public static void main(String[] args) {
         // Make calls from here
-        // Student s1 = new Student();
-        // System.out.println();
-        // Student s2 = new Student();
-        // System.out.println();
+        Student s1 = new Student();
+        System.out.println();
+        Student s2 = new Student();
+        System.out.println();
+        System.out.println(s1.age);
+        System.out.println(s2.age);
     }
 }
 
