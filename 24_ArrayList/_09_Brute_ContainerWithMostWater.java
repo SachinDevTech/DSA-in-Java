@@ -2,7 +2,7 @@ import java.util.ArrayList;
 
 
 //TC: O(n^2)
-public class _09_ContainerWithMostWater {
+public class _09_Brute_ContainerWithMostWater {
     public static void main(String[] args) {
         ArrayList<Integer> arr = new ArrayList<>();
 
