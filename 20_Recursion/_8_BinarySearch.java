@@ -2,7 +2,7 @@
 
 // public class _8_BinarySearch {
 //     public static int checkKeyByBinarySearch(int arr[], int s, int e, int key) {
-//         // Returning the value -1 as because the key is not present
+//         // Returning the value -1 as because the key is not present in the entire array
 //         if (s > e) {
 //             return -1;
 //         }
