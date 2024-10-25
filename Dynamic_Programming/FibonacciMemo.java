@@ -14,6 +14,7 @@ public class FibonacciMemo {
 
     public static void main(String args[]) {
         int n = 7;
+        //if wanna fill values in arrays: Arrays.fill(fib, -1);
         int fib[] = new int[n + 1];
         System.out.println("Fibonacci value of " + n + " is: " +  calcFib(n, fib));
     }
